@@ -1,0 +1,1 @@
+Just a small example Rock paper scissors game to show to friends new in python.
